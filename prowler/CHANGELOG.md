@@ -36,6 +36,7 @@ All notable changes to the **Prowler SDK** are documented in this file.
 - `entra_require_mfa_for_management_api` check for m365 provider [(#10150)](https://github.com/prowler-cloud/prowler/pull/10150)
 - OpenStack provider multiple regions support [(#10135)](https://github.com/prowler-cloud/prowler/pull/10135)
 - `organization_repository_deletion_limited` check for GitHub provider [(#10185)](https://github.com/prowler-cloud/prowler/pull/10185)
+- `appsync_graphql_api_no_secrets_in_resolvers` check for AWS provider
 
 ### 🔄 Changed
 
